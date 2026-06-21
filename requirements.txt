@@ -12,7 +12,9 @@ identify==2.6.19
 idna==3.18
 iniconfig==2.3.0
 nodeenv==1.10.0
+numpy==2.4.6
 packaging==26.2
+pandas==3.0.3
 platformdirs==4.10.0
 pluggy==1.6.0
 pre_commit==4.1.0
@@ -20,9 +22,12 @@ pydantic==2.10.4
 pydantic-settings==2.14.1
 pydantic_core==2.27.2
 pytest==8.3.4
+python-dateutil==2.9.0.post0
 python-discovery==1.4.0
 python-dotenv==1.0.1
 PyYAML==6.0.3
+six==1.17.0
 typing-inspection==0.4.2
 typing_extensions==4.15.0
+tzdata==2026.2
 virtualenv==21.4.2
